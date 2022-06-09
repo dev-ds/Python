@@ -1,2 +1,3 @@
 # Python
-Sample Code
+
+Sample Code snippits for reference.
